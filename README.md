@@ -2,18 +2,10 @@
 
 ## Workshop title: Taller de Drones    
 
-In this workshop students will learn how to develop Python programs to control the operation of a drone. They will learn to create 
-a program with a graphical interface that uses buttons to order the drone to take off or fly in a certain direction. 
-The program will present the user with a map showing the position of the drone and allowing the drone to be guided with 
-the poses of the body, using image recognition techniques.       
-
-This repository provides a student guide with the required reference codes together with written and video materials 
-to guide students during the process.        
-
-The repository also contains a teacher guide with recommendation on how to use the workshop material in class but
-also with additional materials to go much further and propose ambitious projects on topics such as image recognition 
-using neural networks or web app development.     
-
+In this workshop, students will learn basic aspects of the operation of a drone from the user's point of view. To do this, they will use free access tools such as Mission Planner or the SITL simulator through which they will learn to perform typical operations such as taking off the drone, directing it to geolocated points, planning missions and even guiding a swarm of drones. Students will also learn how to develop simple Python applications to control drones.     
+     
+The student guide offers a step-by-step itinerary, including small challenges. The teacher's guide provides additional resources and materials to pose more ambitious challenges, such as, for example, assembling a real drone or implementing neural networks for detecting objects from the drone.       
+     
 ## About    
 
 This workshop has been created by Mariona Anglès, Pablo Royo and Miguel Valero, members of the research group 
